@@ -29,3 +29,9 @@ https://chatgpt.com/share/69e5197d-1b3c-83a1-a2cb-ba98e5aed6c0
 ข้อที่ 6: ให้นักศึกษาสร้าง Lambda function โดยตั้งชื่อว่า lambdaxxxxyyyy (แทนที่ xxxx ด้วยเลขสี่ตัวสุดท้ายของรหัสนักศึกษา และ yyyy ด้วยรหัสส่วนตัวของนักศึกษา) กำหนด trigger ให้ Lambda ทำงานเมื่อมีการเพิ่ม object ใหม่ใน S3 bucket และพิมพ์ชื่อไฟล์ของ object ดังกล่าวออกไปที่ console โดยให้ใช้ IAM role ชื่อ LabRole ที่มีอยู่แล้วใน Sandbox Environment นำฟังก์ชันขึ้นให้บริการและทดสอบ
 สิ่งที่ต้องส่ง: *ส่งภาพ Capture เพียงภาพเดียว ให้เห็นหน้าจอที่แสดงรายละเอียดของ Lambda function ได้แก่ ชื่อ และ code ภายในฟังก์ชันได้ชัดเจน พร้อมกับผลลัพธ์การทดสอบ
 https://chatgpt.com/share/69e51df3-3550-839b-a0db-eefd2fe2f9e7
+
+
+ข้อที่ 7: ให้นักศึกษาสร้าง snapshot ของ EBS volume ของ EC2 instance ตั้งชื่อว่า snapxxxxyyyy (แทนที่ xxxx ด้วยเลขสี่ตัวสุดท้ายของรหัสนักศึกษา และ yyyy ด้วยรหัสส่วนตัวของนักศึกษา) แล้วสร้าง EBS volum ใหม่จาก snapshot ดังกล่าวโดยตั้งชื่อ volume ว่า ebsxxxxyyyy (แทนที่ xxxx ด้วยเลขสี่ตัวสุดท้ายของรหัสนักศึกษา และ yyyy ด้วยรหัสส่วนตัวของนักศึกษา)
+สิ่งที่ต้องส่ง: *ส่งภาพ Capture เพียงภาพเดียว ให้เห็นหน้าจอที่แสดงชื่อของ snapshot ได้ชัดเจน พร้อมกับหน้าจอที่แสดงชื่อของ EBS volume ที่สร้างขึ้นจาก snapshot ดังกล่าว
+https://gemini.google.com/share/6867a28692b2
+
