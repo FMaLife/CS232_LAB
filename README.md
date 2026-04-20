@@ -44,3 +44,8 @@ https://gemini.google.com/share/5a9912929af6
 ข้อที่ 9: ให้นักศึกษาเปิดใช้งาน RDS instance Free Tier ตั้งชื่อว่า rdsxxxxyyyy (แทนที่ xxxx ด้วยเลขสี่ตัวสุดท้ายของรหัสนักศึกษา และ yyyy ด้วยรหัสส่วนตัวของนักศึกษา) พร้อม MySQL database engine เชื่อมต่อกับฐานข้อมูลผ่าน EC2 instance จากนั้นรัน SQL query เพื่อสร้างฐานข้อมูลใหม่ ชื่อ CS332db และแสดงว่ามีฐานข้อมูลดังกล่าวเกิดขึ้นจริง
 สิ่งที่ต้องส่ง: *ส่งภาพ Capture เพียงภาพเดียว ให้เห็นหน้าจอที่แสดงชื่อของ RDS instance ได้ชัดเจน พร้อมกับหน้าจอที่แสดงผลการทดสอบการใช้งานใน EC2 พร้อมกับผลลัพธ์การสร้างฐานข้อมูลใหม่
 https://chatgpt.com/share/69e5ec36-33f4-839a-bf71-4861147898bc
+
+
+ข้อที่ 10: ให้นักศึกษาเปิดใช้งาน RDS instance Free Tier ตั้งชื่อว่า rdsxxxxyyyy (แทนที่ xxxx ด้วยเลขสี่ตัวสุดท้ายของรหัสนักศึกษา และ yyyy ด้วยรหัสส่วนตัวของนักศึกษา) พร้อม MySQL database engine แล้วสร้าง Read Replica ของ instance ดังกล่าว ตั้งชื่อว่า rrxxxxyyyy
+สิ่งที่ต้องส่ง: *ส่งภาพ Capture เพียงภาพเดียว ให้เห็นหน้าจอที่แสดงชื่อของ RDS instance และ Read Replica ได้ชัดเจน พร้อมกับหน้าจอที่แสดงสถานะ Available ของทั้ง RDS instance และ Read Replica
+https://chatgpt.com/share/69e5f788-91b8-83a1-b6db-396e3ab06634
