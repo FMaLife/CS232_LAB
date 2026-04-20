@@ -1,6 +1,8 @@
 # CS232_22568_LAB
 การทดสอบภาคปฏิบัติ
 
+อยากได้ข้อ 2 , 3 , 5 , 7 , 10
+
 ข้อที่ 1: ให้นักศึกษาเปิดใช้งาน EC2 instance ประเภท t2.micro ซึ่งติดตั้งระบบปฏิบัติการ Amazon Linux 2023 โดยตั้งชื่อ EC2 instance เป็น ec2xxxxyyyy (แทนที่ xxxx ด้วยเลขสี่ตัวสุดท้ายของรหัสนักศึกษา และ yyyy ด้วยรหัสส่วนตัวของนักศึกษา) นักศึกษาจะต้องตั้งค่าให้สามารถเข้าถึง instance นี้จากสาธารณะได้ จากนั้นให้ SSH เข้าไปที่ instance และรันคำสั่ง Linux CLI หนึ่งคำสั่งเพื่อแสดงการใช้งานเบื้องต้น 
 สิ่งที่ต้องส่ง: *ส่งภาพ Capture เพียงภาพเดียว ให้เห็นหน้าจอ Instance Summary ที่แสดงรายละเอียดของ EC2 instance ได้แก่ ชื่อ, ประเภท และ Public IPv4 DNS ของ instance ได้ชัดเจน พร้อมกับหน้าจอที่แสดง terminal ที่เห็นผลลัพธ์ของคำสั่ง Linux CLI ที่รันสมบูรณ์แล้ว พร้อมกับรันคำสั่ง Linux CLI หนึ่งคำสั่งเพื่อแสดงการใช้งานเบื้องต้น
 https://chatgpt.com/share/69e4aa7a-0858-839d-b084-891d80ceab97
@@ -49,3 +51,6 @@ https://chatgpt.com/share/69e5ec36-33f4-839a-bf71-4861147898bc
 ข้อที่ 10: ให้นักศึกษาเปิดใช้งาน RDS instance Free Tier ตั้งชื่อว่า rdsxxxxyyyy (แทนที่ xxxx ด้วยเลขสี่ตัวสุดท้ายของรหัสนักศึกษา และ yyyy ด้วยรหัสส่วนตัวของนักศึกษา) พร้อม MySQL database engine แล้วสร้าง Read Replica ของ instance ดังกล่าว ตั้งชื่อว่า rrxxxxyyyy
 สิ่งที่ต้องส่ง: *ส่งภาพ Capture เพียงภาพเดียว ให้เห็นหน้าจอที่แสดงชื่อของ RDS instance และ Read Replica ได้ชัดเจน พร้อมกับหน้าจอที่แสดงสถานะ Available ของทั้ง RDS instance และ Read Replica
 https://chatgpt.com/share/69e5f788-91b8-83a1-b6db-396e3ab06634
+
+
+https://docs.google.com/document/d/10tWIDXzdZJJjTg6G9uY1AU8MpqPAfLdpEh-ULmfWJHA/edit?usp=sharing
